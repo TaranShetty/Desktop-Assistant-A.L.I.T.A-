@@ -28,7 +28,7 @@ Qualities:
   
 - Logging: Keeps track of every action for debugging and documentation purposes.
 
-**Utilised Technologies:**
+Utilised Technologies:
 
 - Python: A fundamental programming language.
   
