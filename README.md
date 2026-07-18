@@ -21,7 +21,7 @@ A.L.I.T.A. is designed to simplify everyday computing by allowing users to inter
 ### Wikipedia Search
 - Retrieves summaries and information directly from Wikipedia.
 
-### 🌐 Smart Web Browsing
+### Smart Web Browsing
 - Opens websites such as:
   - Google
   - YouTube
